@@ -1,0 +1,21 @@
+*{margin: 0;padding: 0;}
+a{text-align: center; display: inline-block; text-decoration: none;background-color: black;color:white;width: 150px; height: 20px; font-size: 14px;margin: 5px; padding: 5px;}
+a:hover{transition: 0.3s; ;color: red;}
+img{width: 200px; height: 200px; border: solid;}
+img:hover{transition: 0.3s;background-color: red;}
+hr{margin: 20px; }
+table{margin-left: auto;margin-right: auto;}
+input{text-align: center; display: inline-block; text-decoration: none;background-color: black;color:white;width: 150px; height: 30px; font-size: 14px;margin: 5px; padding: 5px;}
+h1{margin: 20px;}
+
+.section_one{text-align: center;border: solid;padding: 30px;}
+.content{ background-image: url('../image/img_two.png');background-position: right;background-size: cover;padding: 40px;}
+.list{justify-content: center;display: flex;text-align: left;}
+.form{}
+.nuv{text-align: center; width: 99.7%;height: 50px;background-color: white;position: fixed;border: solid;}
+
+#form_label{display: inline-block;width: 100px;height: 20px; margin: 	5px;}
+#form_input{display: inline-block;width: 164px;height: 40px;}
+#form_select{background-color: black;color:white;width: 164px; height: 40px; font-size: 14px;margin: 5px; padding: 5px;}}
+#nuv_button{display: inline-block;width: 140px;height: 30px;border: solid;}
+#nuv_button:hover{background-color: white;color: red;transition: 0.5s;}
